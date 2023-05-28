@@ -10,7 +10,7 @@ const Home = () => {
         Get Hired or Hire people for free!
       </Typography>
       <div>
-        <ul className="ul">
+        <ul className="ul hello">
           <li>
           <Button sx={{ margin:"2% 3%"}} variant="outlined">
             <Link to="/employer/dashboard">
